@@ -13,7 +13,7 @@ The archive file is available here for reference and documentation purposes only
 
 ## 🎧 Podcast
 
-Listen to the full episode exploring the origin and contents of the archive:
+Listen to the this podcast that dives deep into the story, origin, and contents of the archive:
 
 **Podcast Link:** [▶️ tominecon.7z — The File That Shouldn’t Exist](https://copilot.microsoft.com/shares/podcasts/Yv3fBCMTRvsJSyperYegf)
 
