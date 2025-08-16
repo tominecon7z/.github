@@ -1,6 +1,6 @@
 # tominecon.7z
 
-This repository provides access to the archive download and Copilot Podcasts episode related to `tominecon.7z`.
+This repository provides access to the archive download and podcast related to `tominecon.7z`.
 
 ## 📦 Download
 
